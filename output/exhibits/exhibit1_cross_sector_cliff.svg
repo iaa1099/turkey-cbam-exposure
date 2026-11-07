@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="662.4pt" height="403.2pt" viewBox="0 0 662.4 403.2" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-07T18:04:51.656696</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 403.2 
+L 662.4 403.2 
+L 662.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 198.72 322.56 
+L 609.408 322.56 
+L 609.408 88.704 
+L 198.72 88.704 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 198.72 182.722909 
+L 502.62912 182.722909 
+" clip-path="url(#p7ae18a173c)" style="fill: none; stroke-dasharray: 2.4,1.6; stroke-dashoffset: 0; stroke: #8c8c8c; stroke-width: 0.8"/>
+   </g>
+   <g id="matplotlib.axis_1"/>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-weight: 700; font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="195.22" y="117.387433" transform="rotate(-0 195.22 117.387433)">Steel</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_3"/>
+     <g id="text_2">
+      <text style="font-weight: 700; font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="195.22" y="163.205615" transform="rotate(-0 195.22 163.205615)">Cement</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_4"/>
+     <g id="text_3">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="195.22" y="209.023797" transform="rotate(-0 195.22 209.023797)">Aluminium</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_5"/>
+     <g id="text_4">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="195.22" y="254.841979" transform="rotate(-0 195.22 254.841979)">Fertilisers</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_6"/>
+     <g id="text_5">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="195.22" y="300.660161" transform="rotate(-0 195.22 300.660161)">Hydrogen</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_7">
+    <path d="M 198.72 128.657455 
+L 198.72 99.333818 
+" style="fill: none; stroke: #8c8c8c; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 198.72 174.475636 
+L 198.72 145.152 
+" style="fill: none; stroke: #8c8c8c; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_9">
+    <path d="M 198.72 220.293818 
+L 198.72 190.970182 
+" style="fill: none; stroke: #8c8c8c; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_10">
+    <path d="M 198.72 266.112 
+L 198.72 236.788364 
+" style="fill: none; stroke: #8c8c8c; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_11">
+    <path d="M 198.72 311.930182 
+L 198.72 282.606545 
+" style="fill: none; stroke: #8c8c8c; stroke-linecap: square"/>
+   </g>
+   <g id="text_6">
+    <text style="font-style: italic; font-size: 9px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="607.35456" y="185.04955" transform="rotate(-0 607.35456 185.04955)">steel + cement = 90.6%</text>
+   </g>
+   <g id="patch_3">
+    <path d="M 198.72 127.282909 
+L 546.760678 127.282909 
+L 546.760678 100.708364 
+L 198.72 100.708364 
+z
+" clip-path="url(#p7ae18a173c)" style="fill: #1f4632"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 198.72 173.101091 
+L 307.802876 173.101091 
+L 307.802876 146.526545 
+L 198.72 146.526545 
+z
+" clip-path="url(#p7ae18a173c)" style="fill: #1f4632"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 198.72 218.919273 
+L 234.022331 218.919273 
+L 234.022331 192.344727 
+L 198.72 192.344727 
+z
+" clip-path="url(#p7ae18a173c)" style="fill: #d3d3d3"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 198.72 264.737455 
+L 209.362156 264.737455 
+L 209.362156 238.162909 
+L 198.72 238.162909 
+z
+" clip-path="url(#p7ae18a173c)" style="fill: #d3d3d3"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 198.72 310.555636 
+L 200.255293 310.555636 
+L 200.255293 283.981091 
+L 198.72 283.981091 
+z
+" clip-path="url(#p7ae18a173c)" style="fill: #d3d3d3"/>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="553.320521" y="116.839308" transform="rotate(-0 553.320521 116.839308)">68.97%</text>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="314.362719" y="162.65749" transform="rotate(-0 314.362719 162.65749)">21.62%</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 11px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #595959" x="240.582175" y="208.475672" transform="rotate(-0 240.582175 208.475672)">7.00%</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 11px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #595959" x="215.921999" y="254.293854" transform="rotate(-0 215.921999 254.293854)">2.11%</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 11px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #595959" x="206.815136" y="300.112036" transform="rotate(-0 206.815136 300.112036)">0.30%</text>
+   </g>
+  </g>
+  <g id="line2d_12">
+   <path d="M 46.368 358.848 
+L 635.904 358.848 
+" style="fill: none; stroke: #e8e8e8; stroke-linecap: square"/>
+  </g>
+  <g id="text_12">
+   <text style="font-weight: 700; font-size: 8.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8c8c8c" x="46.368" y="20.181531" transform="rotate(-0 46.368 20.181531)">C B A M   E X P O S U R E   M O D E L   ·   E X H I B I T   1</text>
+  </g>
+  <g id="text_13">
+   <text style="font-weight: 700; font-size: 15.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="46.368" y="43.447484" transform="rotate(-0 46.368 43.447484)">Two sectors carry ~90.6% of exposure</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 10px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8c8c8c" x="46.368" y="67.789375" transform="rotate(-0 46.368 67.789375)">Share of total CBAM exposure across five direct-emissions goods, 2024 Türkiye-to-EU imports</text>
+  </g>
+  <g id="text_15">
+   <text style="font-style: italic; font-size: 8px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8c8c8c" x="46.368" y="377.5979" transform="rotate(-0 46.368 377.5979)">Cement uses generic EU default direct values for 7 of 8 CN codes — the least Türkiye-specific sector figure of the five.</text>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 8px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #8c8c8c" transform="translate(46.368 394.5323)">Source: output/cbam_cross_sector_exposure.csv (features/crossSectorExposure.py)</text>
+   <text style="font-size: 8px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #8c8c8c" transform="translate(46.368 403.20555)">Eurostat Comext DS-045409 (2024) x EU CBAM default direct-emissions values, Türkiye sheet, joined at HS4.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7ae18a173c">
+   <rect x="198.72" y="88.704" width="410.688" height="233.856"/>
+  </clipPath>
+ </defs>
+</svg>
