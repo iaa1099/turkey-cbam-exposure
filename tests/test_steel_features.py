@@ -1,10 +1,17 @@
 from pathlib import Path
 
+import pytest
+
 from cleanUp.item1CleanUp import parse_turkiye_defaults
 from cleanUp.item2CleanUp import load_trade
 from features.steelFeatures import build_steel_features
 
 BASE_DIR = Path(__file__).resolve().parent.parent
+
+pytestmark = pytest.mark.skipif(
+    not (BASE_DIR / "data" / "item1.xlsx").exists() or not (BASE_DIR / "data" / "item2.csv").exists(),
+    reason="raw data files not committed (gitignored) — run locally with data/ populated, see data/README.md",
+)
 
 
 def _build_features():
