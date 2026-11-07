@@ -1,0 +1,4 @@
+basis,intensity_tco2_per_mwh,description
+ember_iea_benchmark,0.4425,"Standard grid-carbon accounting, geothermal treated as ~0 (NCG omitted)"
+grid_intensity_ncg_adjusted,0.46814750349723794,"Bottom-up build, geothermal costed at 0.887 tCO2/MWh (operative figure)"
+geothermal_ncg_delta,0.025647503497237933,standard grid accounting understates Turkey's grid carbon intensity by 5.8% (+0.0256 tCO2/MWh) via omitted geothermal NCG (non-condensable gas) degassing
