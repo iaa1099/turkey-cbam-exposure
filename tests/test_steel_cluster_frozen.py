@@ -1,5 +1,7 @@
 from pathlib import Path
 
+import pytest
+
 from cleanUp.item1CleanUp import parse_turkiye_defaults
 from cleanUp.item2CleanUp import load_trade
 from features.steelClusterFrozen import (
@@ -11,6 +13,11 @@ from features.steelClusterFrozen import (
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 EXPECTED_DROPPED_HS4 = {"7201", "7203", "7206", "7218", "7221", "7223", "7301"}
+
+pytestmark = pytest.mark.skipif(
+    not (BASE_DIR / "data" / "item1.xlsx").exists() or not (BASE_DIR / "data" / "item2.csv").exists(),
+    reason="raw data files not committed (gitignored) — run locally with data/ populated, see data/README.md",
+)
 
 
 def _result():
