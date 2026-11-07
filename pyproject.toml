@@ -1,0 +1,25 @@
+[project]
+name = "turkey-cbam-exposure"
+version = "0.1.0"
+description = "Clustering-based model of Turkiye's exposure to the EU Carbon Border Adjustment Mechanism (CBAM)"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas==2.3.3",
+    "numpy==2.3.5",
+    "scikit-learn==1.9.0",
+    "matplotlib==3.10.7",
+    "openpyxl==3.1.5",
+    "python-dotenv==1.2.4",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest==9.1.1",
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["cbam_exposure", "cleanUp", "features", "viz"]
