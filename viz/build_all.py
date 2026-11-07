@@ -16,9 +16,13 @@ EXHIBITS = [
     (exhibit4_two_basis, "exhibit4_two_basis"),
 ]
 
-if __name__ == "__main__":
+def main() -> None:
     for module, name in EXHIBITS:
         fig = module.build()
         png, svg = save_exhibit(fig, name)
         print(png)
         print(svg)
+
+
+if __name__ == "__main__":
+    main()
