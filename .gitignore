@@ -1,0 +1,18 @@
+# Claude Code local tooling config
+.claude/
+
+# OS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Secrets
+.env
+
+# Large / restricted raw data — fetch with scripts/fetch_data.py
+data/item1.xlsx
+data/item2.csv
+data/item3.csv
