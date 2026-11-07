@@ -23,6 +23,11 @@ from features.electricityGood import (
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
+pytestmark = pytest.mark.skipif(
+    not (BASE_DIR / "data" / "item3.csv").exists(),
+    reason="raw data files not committed (gitignored) — run locally with data/ populated, see data/README.md",
+)
+
 
 def _mix():
     item3_df = pd.read_csv(BASE_DIR / "data" / "item3.csv")
