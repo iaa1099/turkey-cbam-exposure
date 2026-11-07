@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="662.4pt" height="432pt" viewBox="0 0 662.4 432" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-07T18:04:51.968698</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.7, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 432 
+L 662.4 432 
+L 662.4 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 92.736 336.96 
+L 582.912 336.96 
+L 582.912 112.32 
+L 92.736 112.32 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1"/>
+     <g id="text_1">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #8c8c8c" transform="translate(285.94175 347.243594)">Ember/IEA benchmark</text>
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #8c8c8c" transform="translate(300.602922 357.448078)">(geothermal ~0)</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2"/>
+     <g id="text_2">
+      <text style="font-weight: 700; font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #8c8c8c" transform="translate(463.905114 347.403906)">NCG-adjusted</text>
+      <text style="font-weight: 700; font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #8c8c8c" transform="translate(459.157341 357.608391)">(operative figure)</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_3">
+      <defs>
+       <path id="m389a178e8c" d="M 0 0 
+L -3 0 
+" style="stroke: #8c8c8c; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m389a178e8c" x="92.736" y="336.96" style="fill: #8c8c8c; stroke: #8c8c8c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="86.236" y="340.351797" transform="rotate(-0 86.236 340.351797)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m389a178e8c" x="92.736" y="301.150391" style="fill: #8c8c8c; stroke: #8c8c8c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="86.236" y="304.542188" transform="rotate(-0 86.236 304.542188)">0.1</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m389a178e8c" x="92.736" y="265.340782" style="fill: #8c8c8c; stroke: #8c8c8c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="86.236" y="268.732579" transform="rotate(-0 86.236 268.732579)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m389a178e8c" x="92.736" y="229.531173" style="fill: #8c8c8c; stroke: #8c8c8c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="86.236" y="232.92297" transform="rotate(-0 86.236 232.92297)">0.3</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#m389a178e8c" x="92.736" y="193.721564" style="fill: #8c8c8c; stroke: #8c8c8c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="86.236" y="197.11336" transform="rotate(-0 86.236 197.11336)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m389a178e8c" x="92.736" y="157.911954" style="fill: #8c8c8c; stroke: #8c8c8c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="86.236" y="161.303751" transform="rotate(-0 86.236 161.303751)">0.5</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m389a178e8c" x="92.736" y="122.102345" style="fill: #8c8c8c; stroke: #8c8c8c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 9.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: end; fill: #8c8c8c" x="86.236" y="125.494142" transform="rotate(-0 86.236 125.494142)">0.6</text>
+     </g>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 10px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #8c8c8c" x="67.062172" y="224.64" transform="rotate(-90 67.062172 224.64)">tCO₂ / MWh</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 92.736 336.96 
+L 92.736 112.32 
+" style="fill: none; stroke: #bfbfbf; stroke-width: 0.9; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 293.627803 336.96 
+L 373.984525 336.96 
+L 373.984525 178.50248 
+L 293.627803 178.50248 
+z
+" clip-path="url(#pb9df717ef1)" style="fill: #d3d3d3"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 454.341246 336.96 
+L 534.697967 336.96 
+L 534.697967 169.318209 
+L 454.341246 169.318209 
+z
+" clip-path="url(#pb9df717ef1)" style="fill: #1f4632"/>
+   </g>
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #595959" x="333.806164" y="260.833427" transform="rotate(-0 333.806164 260.833427)">0.4425</text>
+   </g>
+   <g id="text_12">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #ffffff" x="494.519607" y="256.241292" transform="rotate(-0 494.519607 256.241292)">0.4681</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 12px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: middle; fill: #1a1a1a" x="414.162885" y="131.860417" transform="rotate(-0 414.162885 131.860417)">+5.8%</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 223.527692 188.549358 
+Q 277.669077 184.073928 331.810463 179.598498 
+" style="fill: none; stroke: #595959; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #595959" transform="translate(102.378807 186.72022)">geothermal forced to 0: 0.4399</text>
+    <text style="font-size: 8.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #595959" transform="translate(102.378807 195.952814)">(−0.6% vs. benchmark —</text>
+    <text style="font-size: 8.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #595959" transform="translate(102.378807 205.083142)">isolates the gap)</text>
+   </g>
+   <g id="line2d_10">
+    <path d="M 333.806164 171.340558 
+L 333.806164 137.089561 
+L 494.519607 137.089561 
+L 494.519607 162.156287 
+" clip-path="url(#pb9df717ef1)" style="fill: none; stroke: #1a1a1a; stroke-linecap: square"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="mae5995c768" d="M -0 5.244044 
+L 5.244044 0 
+L 0 -5.244044 
+L -5.244044 -0 
+z
+" style="stroke: #1a1a1a"/>
+    </defs>
+    <g clip-path="url(#pb9df717ef1)">
+     <use xlink:href="#mae5995c768" x="333.806164" y="179.43353" style="fill: #1a1a1a; stroke: #1a1a1a"/>
+    </g>
+   </g>
+  </g>
+  <g id="line2d_11">
+   <path d="M 46.368 384.48 
+L 635.904 384.48 
+" style="fill: none; stroke: #e8e8e8; stroke-linecap: square"/>
+  </g>
+  <g id="text_15">
+   <text style="font-weight: 700; font-size: 8.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8c8c8c" x="46.368" y="21.189531" transform="rotate(-0 46.368 21.189531)">C B A M   E X P O S U R E   M O D E L   ·   E X H I B I T   4</text>
+  </g>
+  <g id="text_16">
+   <text style="font-weight: 700; font-size: 15.5px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #1a1a1a" x="46.368" y="45.889531" transform="rotate(-0 46.368 45.889531)">Standard accounting understates grid carbon by 5.8%</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 10px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8c8c8c" x="46.368" y="72.109375" transform="rotate(-0 46.368 72.109375)">Türkiye grid carbon intensity, tCO₂/MWh — two accounting bases, same generation mix</text>
+  </g>
+  <g id="text_18">
+   <text style="font-style: italic; font-size: 8px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; text-anchor: start; fill: #8c8c8c" x="46.368" y="404.1515" transform="rotate(-0 46.368 404.1515)">Delta is 5.8% vs. the Ember/IEA benchmark — the operative figure for electricity-good exposure and the renewable-share sweep.</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 8px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #8c8c8c" transform="translate(46.368 422.2955)">Source: output/electricity_grid_intensity_bases.csv (features/electricityGood.py)</text>
+   <text style="font-size: 8px; font-family: 'Helvetica Neue', 'Helvetica', 'Arial', 'DejaVu Sans', sans-serif; fill: #8c8c8c" transform="translate(46.368 430.985)">Validation marker: validate_against_benchmark(), geothermal forced to 0, checked within +/-2% tolerance (passes).</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb9df717ef1">
+   <rect x="92.736" y="112.32" width="490.176" height="224.64"/>
+  </clipPath>
+ </defs>
+</svg>
